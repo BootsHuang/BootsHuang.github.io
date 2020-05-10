@@ -1,6 +1,6 @@
 ---
 title: About Me
-category: Contact Syncing
+category: Info
 order: 1
 ---
 
