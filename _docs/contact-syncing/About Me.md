@@ -14,4 +14,4 @@ To sync your contacts:
 2. Select the **Connect Facebook** button
 3. Authorise ChatApp
 
-![](//placehold.it/800x600)
+![enter description here](./../images/截屏2020-05-09下午4.57.28.png)
