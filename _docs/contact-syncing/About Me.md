@@ -4,14 +4,5 @@ category: Info
 order: 1
 ---
 
-BootsHuang
-
-> Signing up with Facebook automatically starts syncing contacts.
-
-To sync your contacts:
-
-1. Open your *User Settings*
-2. Select the **Connect Facebook** button
-3. Authorise ChatApp
-
-![enter description here](./../images/截屏2020-05-09下午4.57.28.png)
+I am BootsHuang.I am 8 yrs old.I am from China.My english pretty good.And i am going to talk about me.
+I only have 1 computer.And it's 8 years old.It is take to my home in 2012.I learn coding when i was 6 .And love it!I am using scratch at now and i am using python.
