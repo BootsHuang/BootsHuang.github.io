@@ -7,11 +7,11 @@ order: 1
 
 ``` python
     #Ghost Game
-	from random import randint
+    from random import randint
     print('Ghost Game')
     feeling_brave = True
     score = 0
-   	while feeling_brave:
+    while feeling_brave:
        ghost_door = randint(1,3)
        print('Three doors ahead...')
        print('One door has a ghost inside')
