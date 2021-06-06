@@ -1,7 +1,7 @@
 ---
-title: 2021-6-07 blog
-category: My blog
+title: SSCP主页
+category: SSCP
 order: 4
 ---
 
-** test SSCP
+
