@@ -1,6 +1,6 @@
 ---
 title: 2021-6-07 blog
-category: test SSCP
+category: My blog
 order: 4
 ---
 
