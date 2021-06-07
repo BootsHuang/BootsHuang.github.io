@@ -25,7 +25,7 @@ Bruce 【八卦】
 Kissinger Harting 【退休中，摸鱼】  
 Leo 【间谍】  
 Andy 【管理员】  
-William,Felix 【疑似】  
+William Felix 【疑似对方间谍】  
 ### 如何成为我们的成员?
 如果要成为我们的成员必须遵守一下规则：  
 必须是sga学校的学生  
@@ -36,5 +36,5 @@ William,Felix 【疑似】
 管理员 编写员 间谍 八卦
 摸鱼
 
-
+**关于成员的资料在下一个文件**
 
