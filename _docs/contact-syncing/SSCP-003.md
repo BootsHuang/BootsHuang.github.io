@@ -1,3 +1,8 @@
+---
+title: SSCP-002
+category: SSCP
+order: 7
+---
 # 玩具猴子
 项目编号：SSCP-003  
 项目级别：Safe  
