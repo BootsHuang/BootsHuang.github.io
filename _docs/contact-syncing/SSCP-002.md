@@ -1,5 +1,5 @@
 ---
-title: SSCP主页
+title: SSCP-002
 category: SSCP
 order: 6
 ---
