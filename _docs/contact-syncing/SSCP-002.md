@@ -1,3 +1,8 @@
+---
+title: SSCP主页
+category: SSCP
+order: 6
+---
 # 疯子
 项目编号：SSCP-002  
 项目级别：Keter  
