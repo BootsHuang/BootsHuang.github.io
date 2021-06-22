@@ -1,7 +1,7 @@
 ---
 title: SSCP-017
 category: SSCP
-order: 11
+order: 12
 ---
 # SSCP-017 生化病毒
 ### 级别：Keter         
